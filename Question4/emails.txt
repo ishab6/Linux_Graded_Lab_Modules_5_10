@@ -1,0 +1,10 @@
+abc123@gmail.com
+test.user@yahoo.com
+hello@domain.com
+wrongemail.com
+user@site
+user123@abc.com
+abc123@gmail.com
+name@company.org
+onlyletters@xyz.com
+123@numbers.com

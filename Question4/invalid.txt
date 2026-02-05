@@ -1,0 +1,4 @@
+test.user@yahoo.com
+wrongemail.com
+user@site
+name@company.org
